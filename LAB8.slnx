@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="LAB8.ConsoleApp/LAB8.ConsoleApp.csproj" />
+  <Project Path="LAB8.Logic/LAB8.Logic.csproj" />
+</Solution>
